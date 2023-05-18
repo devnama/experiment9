@@ -73,7 +73,7 @@ if st.button("Frequent Items"):
   st.success('Apriori has found Frequent itemsets {}'.format(frequent_items))      
 if st.button("About"):
   st.subheader("Developed by Devendra Chippi")
-  st.subheader("Associate Professor, AI & DS")
+  st.subheader("Student")
 html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">          
